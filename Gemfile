@@ -8,3 +8,4 @@ gem "ruboty-redis"
 gem "ruboty-slack"
 gem "ruboty-talk"
 gem 'ruboty-itc', github: 'fakestarbaby/ruboty-itc'
+gem 'ruboty-echo'
