@@ -1,4 +1,13 @@
 GIT
+  remote: git://github.com/fakestarbaby/ruboty-github.git
+  revision: daac0419d350ffe4a2c5e7d9b477355fb6aa0411
+  specs:
+    ruboty-github (0.2.0)
+      activesupport
+      octokit
+      ruboty
+
+GIT
   remote: git://github.com/fakestarbaby/ruboty-itc.git
   revision: 0ee390ab54778aa65fc4d9e5add00557a11d6ae5
   specs:
@@ -72,10 +81,6 @@ GEM
       ruboty (>= 0.2.0)
     ruboty-echo (0.1.0)
       ruboty
-    ruboty-github (0.2.0)
-      activesupport
-      octokit
-      ruboty
     ruboty-google_image (0.0.7)
       faraday
       faraday_middleware
@@ -118,7 +123,7 @@ DEPENDENCIES
   ruboty-alias
   ruboty-cron
   ruboty-echo
-  ruboty-github
+  ruboty-github!
   ruboty-google_image
   ruboty-itc!
   ruboty-redis

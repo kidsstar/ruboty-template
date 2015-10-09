@@ -9,4 +9,4 @@ gem "ruboty-slack"
 gem "ruboty-talk"
 gem 'ruboty-itc', github: 'fakestarbaby/ruboty-itc'
 gem 'ruboty-echo'
-gem 'ruboty-github'
+gem 'ruboty-github', github: 'fakestarbaby/ruboty-github'
