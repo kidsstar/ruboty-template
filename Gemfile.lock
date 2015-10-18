@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/fakestarbaby/ruboty-github.git
-  revision: daac0419d350ffe4a2c5e7d9b477355fb6aa0411
+  revision: 11a4cd2ed5cd3f2ca4dd1cd757c3b1cbc40494a9
   specs:
-    ruboty-github (0.2.0)
+    ruboty-github (0.2.1)
       activesupport
       octokit
       ruboty
