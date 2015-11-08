@@ -105,6 +105,8 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-ruby (0.0.2)
+      ruboty
     ruboty-slack (0.1.12)
       ruboty (>= 1.0.4)
       xrc (>= 0.1.8)
@@ -161,6 +163,7 @@ DEPENDENCIES
   ruboty-google_image
   ruboty-itc!
   ruboty-redis
+  ruboty-ruby
   ruboty-slack
   ruboty-talk
   ruboty-twitter_search
