@@ -15,6 +15,14 @@ GIT
       ruboty
       spaceship
 
+GIT
+  remote: git://github.com/fakestarbaby/ruboty-twitter_search.git
+  revision: 11abce3edf38fda2422a7a221f386f4ff7881256
+  specs:
+    ruboty-twitter_search (0.1.1)
+      ruboty
+      twitter
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -119,9 +127,6 @@ GEM
     ruboty-talk (0.0.5)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
-    ruboty-twitter_search (0.1.1)
-      ruboty
-      twitter
     sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
@@ -173,4 +178,4 @@ DEPENDENCIES
   ruboty-ruby
   ruboty-slack
   ruboty-talk
-  ruboty-twitter_search
+  ruboty-twitter_search!

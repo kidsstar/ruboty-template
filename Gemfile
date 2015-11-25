@@ -10,6 +10,6 @@ gem "ruboty-talk"
 gem 'ruboty-itc', github: 'fakestarbaby/ruboty-itc'
 gem 'ruboty-echo'
 gem 'ruboty-github', github: 'fakestarbaby/ruboty-github'
-gem 'ruboty-twitter_search'
+gem 'ruboty-twitter_search', github: 'fakestarbaby/ruboty-twitter_search'
 gem 'ruboty-ruby'
 gem 'ruboty-hatena_hotentry'
