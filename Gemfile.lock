@@ -119,6 +119,8 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-replace (0.0.1)
+      ruboty
     ruboty-ruby (0.0.2)
       ruboty
     ruboty-slack (0.1.12)
@@ -175,6 +177,7 @@ DEPENDENCIES
   ruboty-hatena_hotentry
   ruboty-itc!
   ruboty-redis
+  ruboty-replace
   ruboty-ruby
   ruboty-slack
   ruboty-talk
