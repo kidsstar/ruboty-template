@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "rake"
+gem 'ruboty-replace'
 gem "ruboty-alias"
 gem "ruboty-cron"
 gem "ruboty-google_image"
@@ -13,4 +14,3 @@ gem 'ruboty-github', github: 'fakestarbaby/ruboty-github'
 gem 'ruboty-twitter_search', github: 'fakestarbaby/ruboty-twitter_search'
 gem 'ruboty-ruby'
 gem 'ruboty-hatena_hotentry'
-gem 'ruboty-replace'
