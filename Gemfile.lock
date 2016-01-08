@@ -7,6 +7,14 @@ GIT
       spaceship
 
 GIT
+  remote: git://github.com/fakestarbaby/ruboty-jenkins.git
+  revision: 204cd08501fad270da3e24653193ae0a1722e6e6
+  specs:
+    ruboty-jenkins (0.0.1)
+      curb
+      ruboty
+
+GIT
   remote: git://github.com/fakestarbaby/ruboty-twitter_search.git
   revision: 11abce3edf38fda2422a7a221f386f4ff7881256
   specs:
@@ -33,6 +41,7 @@ GEM
       colored
       highline (>= 1.7.1)
       security
+    curb (0.9.0)
     docomoru (0.1.3)
       activesupport
       faraday
@@ -168,6 +177,7 @@ DEPENDENCIES
   ruboty-github
   ruboty-google_image
   ruboty-itc!
+  ruboty-jenkins!
   ruboty-redis
   ruboty-replace
   ruboty-ruby
