@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/fakestarbaby/ruboty-jenkins.git
-  revision: 204cd08501fad270da3e24653193ae0a1722e6e6
+  revision: e2f1cb13bc79f532b4a783b3e2ca52be58fd59ed
   specs:
     ruboty-jenkins (0.0.1)
       curb
