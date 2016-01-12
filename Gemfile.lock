@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/fakestarbaby/ruboty-jenkins.git
-  revision: de4297c125ec00656de54ae2f83fe4d2172deb81
+  revision: cf7a1b24db0203aa37dbad25a4d5620b23f65a7e
   specs:
     ruboty-jenkins (0.0.1)
       curb
@@ -41,7 +41,7 @@ GEM
       colored
       highline (>= 1.7.1)
       security
-    curb (0.9.0)
+    curb (0.9.1)
     docomoru (0.1.3)
       activesupport
       faraday
