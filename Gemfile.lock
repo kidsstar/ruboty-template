@@ -118,7 +118,7 @@ GEM
       slop
     ruboty-alias (0.0.8)
       ruboty (>= 1.1.1)
-    ruboty-app_annie (0.0.1)
+    ruboty-app_annie (0.0.2)
       anego
       ruboty
     ruboty-cron (1.1.0)
