@@ -89,7 +89,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.1)
     method_source (0.8.2)
     mime-types (2.99)
-    minitest (5.8.3)
+    minitest (5.8.4)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     naught (1.1.0)
@@ -131,7 +131,7 @@ GEM
       activesupport
       octokit
       ruboty
-    ruboty-gitlab (0.0.3)
+    ruboty-gitlab (0.0.4)
       gitlab
       ruboty
     ruboty-google_image (0.1.0)
