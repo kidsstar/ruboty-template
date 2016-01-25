@@ -131,7 +131,7 @@ GEM
       activesupport
       octokit
       ruboty
-    ruboty-gitlab (0.0.4)
+    ruboty-gitlab (0.0.5)
       gitlab
       ruboty
     ruboty-google_image (0.1.0)
