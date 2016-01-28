@@ -126,6 +126,9 @@ GEM
     ruboty-app_annie (0.0.3)
       anego
       ruboty
+    ruboty-bundler (0.1.2)
+      ruboty (>= 1.2.1)
+      ruboty-github
     ruboty-cron (1.1.0)
       activesupport
       chrono
@@ -212,6 +215,7 @@ DEPENDENCIES
   rake
   ruboty-alias
   ruboty-app_annie
+  ruboty-bundler
   ruboty-cron
   ruboty-echo
   ruboty-github

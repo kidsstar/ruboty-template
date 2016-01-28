@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "rake"
 gem 'ruboty-replace'
+gem 'ruboty-bundler'
 gem "ruboty-alias"
 gem "ruboty-cron"
 gem "ruboty-google_image"
