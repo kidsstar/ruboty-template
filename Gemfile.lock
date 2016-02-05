@@ -89,11 +89,14 @@ GEM
       thread_safe (~> 0.3, >= 0.3.1)
     method_source (0.8.2)
     mime-types (2.99)
+    mini_portile2 (2.0.0)
     minitest (5.8.4)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     naught (1.1.0)
     netrc (0.11.0)
+    nokogiri (1.6.7.2)
+      mini_portile2 (~> 2.0.0.rc2)
     octokit (4.2.0)
       sawyer (~> 0.6.0, >= 0.5.3)
     plist (3.1.0)
@@ -140,6 +143,9 @@ GEM
     ruboty-google_image (0.1.0)
       faraday
       faraday_middleware
+      ruboty
+    ruboty-hatena_hotentry (0.0.2)
+      nokogiri
       ruboty
     ruboty-redis (0.0.6)
       redis
@@ -205,6 +211,7 @@ DEPENDENCIES
   ruboty-github
   ruboty-gitlab
   ruboty-google_image
+  ruboty-hatena_hotentry
   ruboty-itc!
   ruboty-jenkins!
   ruboty-redis
