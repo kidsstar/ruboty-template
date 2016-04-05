@@ -220,6 +220,7 @@ DEPENDENCIES
   ruboty-slack
   ruboty-talk
   ruboty-twitter_search!
+  xrc
 
 BUNDLED WITH
    1.11.2
