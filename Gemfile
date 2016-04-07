@@ -19,3 +19,4 @@ gem 'ruboty-gitlab'
 gem 'ruboty-app_annie'
 gem 'ruboty-hatena_hotentry'
 gem "xrc"
+gem 'ruboty-echo_to'

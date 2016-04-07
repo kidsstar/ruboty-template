@@ -133,6 +133,8 @@ GEM
       ruboty (>= 0.2.0)
     ruboty-echo (0.1.0)
       ruboty
+    ruboty-echo_to (1.0.1)
+      ruboty
     ruboty-github (0.2.0)
       activesupport
       octokit
@@ -208,6 +210,7 @@ DEPENDENCIES
   ruboty-bundler
   ruboty-cron
   ruboty-echo
+  ruboty-echo_to
   ruboty-github
   ruboty-gitlab
   ruboty-google_image
