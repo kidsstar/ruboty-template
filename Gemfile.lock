@@ -121,7 +121,7 @@ GEM
       slop
     ruboty-alias (0.0.8)
       ruboty (>= 1.1.1)
-    ruboty-app_annie (0.0.4)
+    ruboty-app_annie (0.0.5)
       anego
       ruboty
     ruboty-bundler (0.1.2)
