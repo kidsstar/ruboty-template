@@ -113,7 +113,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
       netrc (~> 0.7)
-    ruboty (1.2.2)
+    ruboty (1.2.3)
       activesupport
       bundler
       dotenv
@@ -121,7 +121,7 @@ GEM
       slop
     ruboty-alias (0.0.8)
       ruboty (>= 1.1.1)
-    ruboty-app_annie (0.0.8)
+    ruboty-app_annie (0.0.9)
       anego
       ruboty
     ruboty-bundler (0.1.2)
