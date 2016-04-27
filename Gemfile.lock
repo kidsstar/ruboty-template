@@ -32,7 +32,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.3.8)
-    anego (0.0.6)
+    anego (0.0.8)
       hashie
       rest-client
     buftok (0.2.0)
@@ -121,7 +121,7 @@ GEM
       slop
     ruboty-alias (0.0.8)
       ruboty (>= 1.1.1)
-    ruboty-app_annie (0.0.9)
+    ruboty-app_annie (0.1.0)
       anego
       ruboty
     ruboty-bundler (0.1.2)
