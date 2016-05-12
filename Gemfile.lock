@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/fakestarbaby/ruboty-hatena_hotentry.git
+  revision: 6eef28d51f2619163bce2089fe4b11a83f443477
+  specs:
+    ruboty-hatena_hotentry (0.0.2)
+      nokogiri
+      ruboty
+
+GIT
   remote: git://github.com/fakestarbaby/ruboty-itc.git
   revision: 0ee390ab54778aa65fc4d9e5add00557a11d6ae5
   specs:
@@ -146,9 +154,6 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-hatena_hotentry (0.0.2)
-      nokogiri
-      ruboty
     ruboty-redis (0.0.6)
       redis
       redis-namespace
@@ -214,7 +219,7 @@ DEPENDENCIES
   ruboty-github
   ruboty-gitlab
   ruboty-google_image
-  ruboty-hatena_hotentry
+  ruboty-hatena_hotentry!
   ruboty-itc!
   ruboty-jenkins!
   ruboty-redis

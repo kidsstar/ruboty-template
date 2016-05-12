@@ -17,6 +17,6 @@ gem 'ruboty-ruby'
 gem 'ruboty-jenkins', github: 'fakestarbaby/ruboty-jenkins'
 gem 'ruboty-gitlab'
 gem 'ruboty-app_annie'
-gem 'ruboty-hatena_hotentry'
+gem 'ruboty-hatena_hotentry', github: 'fakestarbaby/ruboty-hatena_hotentry'
 gem "xrc"
 gem 'ruboty-echo_to'
