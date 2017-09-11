@@ -154,6 +154,10 @@ GEM
       faraday
       faraday_middleware
       ruboty
+    ruboty-pr (0.0.1)
+      activesupport
+      octokit
+      ruboty
     ruboty-redis (0.0.6)
       redis
       redis-namespace
@@ -222,6 +226,7 @@ DEPENDENCIES
   ruboty-hatena_hotentry!
   ruboty-itc!
   ruboty-jenkins!
+  ruboty-pr
   ruboty-redis
   ruboty-replace
   ruboty-ruby
@@ -231,4 +236,4 @@ DEPENDENCIES
   xrc
 
 BUNDLED WITH
-   1.11.2
+   1.12.5

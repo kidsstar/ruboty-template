@@ -20,3 +20,4 @@ gem 'ruboty-app_annie'
 gem 'ruboty-hatena_hotentry', github: 'fakestarbaby/ruboty-hatena_hotentry'
 gem "xrc"
 gem 'ruboty-echo_to'
+gem "ruboty-pr"
